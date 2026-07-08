@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-11 13:29+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: stackamole.py:1026
+msgid "Timeout when launching stack."
+msgstr "Tiempo de espera al iniciar la pila."
+
+#: stackamole.py:1152
+msgid "Unexpected result: "
+msgstr "Resultado inesperado: "
+
+#: stackamole.py:1181
+msgid "Timeout when checking progress."
+msgstr "Tiempo de espera al comprobar el progreso."
+
+#: static/html/main.html:18 static/html/main.html:36
+msgid "Please wait"
+msgstr "Por favor espere"
+
+#: static/html/main.html:19
+msgid "We're preparing your lab environment."
+msgstr "Estamos preparando su entorno de laboratorio"
+
+#: static/html/main.html:20
+msgid "Don't panic!  It may take a few minutes."
+msgstr "¡No entrar en pánico! Puede tomar unos minutos."
+
+#: static/html/main.html:25 static/html/main.html:53
+msgid "Sorry!"
+msgstr "¡Lo siento!"
+
+#: static/html/main.html:37
+msgid "Working"
+msgstr "Trabajando"
+
+#: static/html/main.html:42
+msgid "Progress check result"
+msgstr "Resultado de la comprobación de progreso"
+
+#: static/html/main.html:44
+msgid "Hints"
+msgstr "Consejos"
+
+#: static/html/main.html:54
+msgid "There was a problem checking your progress:"
+msgstr "Hubo un problema al verificar tu progreso:"
+
+#: static/html/main.html:64
+msgid "We think you're busy elsewhere."
+msgstr "Creemos que estás ocupado en otra parte."
+
+#: static/html/main.html:65
+msgid "You've been inactive here for a while, so we paused your lab environment."
+msgstr "Ha estado inactivo aquí durante un tiempo, por lo que detuvimos su entorno de laboratorio."
+
+#: static/html/main.html:66
+msgid "Click 'OK' to return to your terminal in this window."
+msgstr "Haga clic en 'OK' para reanudarlo en esta ventana."
+
+#: static/html/main.html:74
+msgid "Are you sure?"
+msgstr "¿Estás seguro?"
+
+#: static/html/main.html:76
+msgid "Resetting will return your lab environment to a pristine state."
+msgstr "El reinicio devolverá el entorno de su laboratorio a un estado impecable."
+
+#: static/html/main.html:78
+msgid "This may take several minutes to complete."
+msgstr "Esto puede tardar varios minutos en completarse."
+
+#: static/html/main.html:80
+msgid ""
+"In a timed exam, the timer will continue to run while your environment is "
+"being reset."
+msgstr "En un examen cronometrado, el cronómetro seguirá funcionando mientras se restablece su entorno."
+
+#: static/html/main.html:82
+msgid ""
+"After you reset, you will need to retrace your steps up to this point. This "
+"includes redoing any previous labs you have already completed."
+msgstr ""
+"Después de reiniciar, deberá volver sobre sus pasos hasta este punto. "
+"Esto incluye volver a realizar cualquier laboratorio anterior que ya hayas completado."
+
+#: static/html/main.html:84
+msgid "You cannot undo this action."
+msgstr "No puede deshacer esta acción."
+
+#: tasks.py:194
+msgid "You've reached the time limit allocated to you for using labs."
+msgstr "Ha alcanzado el límite de tiempo que se le ha asignado para usar los laboratorios."

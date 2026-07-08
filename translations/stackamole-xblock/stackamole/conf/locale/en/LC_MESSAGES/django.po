@@ -1,0 +1,107 @@
+# edX translation file.
+# Copyright (C) 2026 EdX
+# This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
+# EdX Team <info@edx.org>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 0.1a\n"
+"Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
+"POT-Creation-Date: 2023-06-13 08:00+0000\n"
+"PO-Revision-Date: 2023-06-13 09:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: openedx-translation <openedx-translation@googlegroups.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: stackamole.py:1031
+msgid "Timeout when launching stack."
+msgstr ""
+
+#: stackamole.py:1157
+msgid "Unexpected result: "
+msgstr ""
+
+#: stackamole.py:1186
+msgid "Timeout when checking progress."
+msgstr ""
+
+#: static/html/main.html:18 static/html/main.html:36
+msgid "Please wait"
+msgstr ""
+
+#: static/html/main.html:19
+msgid "We're preparing your lab environment."
+msgstr ""
+
+#: static/html/main.html:20
+msgid "Don't panic!  It may take a few minutes."
+msgstr ""
+
+#: static/html/main.html:25 static/html/main.html:53
+msgid "Sorry!"
+msgstr ""
+
+#: static/html/main.html:37
+msgid "Working"
+msgstr ""
+
+#: static/html/main.html:42
+msgid "Progress check result"
+msgstr ""
+
+#: static/html/main.html:44
+msgid "Hints"
+msgstr ""
+
+#: static/html/main.html:54
+msgid "There was a problem checking your progress:"
+msgstr ""
+
+#: static/html/main.html:64
+msgid "We think you're busy elsewhere."
+msgstr ""
+
+#: static/html/main.html:65
+msgid ""
+"You've been inactive here for a while, so we paused your lab environment."
+msgstr ""
+
+#: static/html/main.html:66
+msgid "Click 'OK' to return to your terminal in this window."
+msgstr ""
+
+#: static/html/main.html:74
+msgid "Are you sure?"
+msgstr ""
+
+#: static/html/main.html:76
+msgid "Resetting will return your lab environment to a pristine state."
+msgstr ""
+
+#: static/html/main.html:78
+msgid "This may take several minutes to complete."
+msgstr ""
+
+#: static/html/main.html:80
+msgid ""
+"In a timed exam, the timer will continue to run while your environment is "
+"being reset."
+msgstr ""
+
+#: static/html/main.html:82
+msgid ""
+"After you reset, you will need to retrace your steps up to this point. This "
+"includes redoing any previous labs you have already completed."
+msgstr ""
+
+#: static/html/main.html:84
+msgid "You cannot undo this action."
+msgstr ""
+
+#: tasks.py:194
+msgid "You've reached the time limit allocated to you for using labs."
+msgstr ""

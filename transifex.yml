@@ -456,3 +456,11 @@ git:
     source_file_dir: translations/xblocks-extra/submit_and_compare/conf/locale/en/
     mode: onlyreviewed
     translation_files_expression: 'translations/xblocks-extra/submit_and_compare/conf/locale/<lang>/'
+
+  # Stackamole XBlock
+  - filter_type: dir
+    file_format: PO
+    source_file_extension: po
+    source_language: en
+    source_file_dir: translations/stackamole-xblock/stackamole/conf/locale/en/
+    translation_files_expression: 'translations/stackamole-xblock/stackamole/conf/locale/<lang>/'
